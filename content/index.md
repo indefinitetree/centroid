@@ -1,5 +1,5 @@
 ---
-title: Centroid of a random indefinite tree
+title: Centroid
 date: 2025-06-29
 ---
 Hello to whoever reading this. Sometimes I speak a lot with my close friends and I end up saying surprising things. Then later the same day I would be realizing how much of such potential inside me is wasted by not recording it properly. So I thought it would be a cool idea to take notes from it and put it as a blog.
