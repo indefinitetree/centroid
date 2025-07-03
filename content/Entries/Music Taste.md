@@ -28,7 +28,7 @@ I've boldly put forth such an outrageous and general claim, I agree that there a
 
 ---
 
-### <span style="color:red">How I choose my playlist </span>
+### <span style="color:#8bd952">How I choose my playlist </span>
 
 Coming to my music taste (Ah yes, I've been waiting so long for this!), I'm not going to into much details (like my complete playlist and stuff, I'm saving it for another entry). As I've mentioned above, I have zero clue what I like in a song. Given a song I like, I can point out what I liked the most. Can I put all that together, create a song that would outclass every other song in my playlist forever? No. I can't ideally but maybe I can pretend to be. 
 
@@ -36,7 +36,7 @@ So before all of this, I don't use Spotify , Amazon music or any other apps that
 
 There are downsides as well. Well I can't just try songs directly. I have to go to Youtube or SoundCloud to try listening to songs. I have a very strict condition for songs, to be added to my local playlist - I should *really really really like* them when in their trial period. There are lot of songs which I listen occasionally that aren't in my playlist but I've listened to them more times than some of the songs in my playlist. The trial period isn't a fixed duration, it might be even a year long. As I said, I have no idea of what I like, you can see it being reflected here. 
 
-### Summary of my playlist rn
+### <span style="color:#8bd952">Summary of my playlist rn</span>
 
 At the start of my music-listening period (around 8-th standard), I enjoyed Tamil-rap songs and was an ardent fan of Hip-Hop Thamizha. 
 
@@ -48,7 +48,7 @@ Once I joined college, I started liking Charlie Puth songs. Those were heavily s
 
 Now currently it's at a complete mix of random English songs, BTS songs (Korean), Charlie Puth songs, 5-6 Taylor swift songs (All thanks to my sister), a lot of Brawl Stars OSTs, some PvZ , Shadow Fight 3, Asphalt 9, MLBB OSTs, random Tamil songs, Hip Hop Thamizha songs, Piano versions of above mentioned songs and some other random songs which don't belong to any of this category (This category is very recent, like December 2024).
 
-### Final Notes
+### <span style="color:#8bd952">Final Notes </span>
 
 This was a slightly shorter entry (by around 100 characters) than the previous entry, if we remove the formal rubbish, otherwise this exceeds the previous one by 1400 characters. I wanted to write in more detail about my music taste, but I'll stop here for good reasons and save those for later. Good luck finding your $\epsilon$ values.
 
