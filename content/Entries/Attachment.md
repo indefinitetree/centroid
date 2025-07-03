@@ -16,7 +16,7 @@ Anyways coming back to *Attachments*. You might be expecting some story about ho
 
 As always let's start with the back story. Spoiler alert: This is not something serious. 
 
-### Backstory:
+### <span style="color:#8bd952">Backstory</span>
 
 From my young age (I don't really remember when it started), I've had a strange habit while sleeping. I cannot sleep peacefully without a bedsheet to wrap myself up --- That's how I pretend and demand for bedsheets anywhere I go. But in reality, I might not need the bedsheet to wrap or cover, but for a unusual reason - *to smell it*. Literally. I don't know if anyone reading this has this habit (If you have this habit, please meet me). 
 
@@ -24,7 +24,7 @@ At the start my parents and relatives used to think I'm unknowingly suffocating 
 
 But for me, the smell was always a bit comforting and made me sleep. Eventually it became a habit. To the point where I struggle to sleep soon without a good bedsheet. By good bedsheet I mean the one that smells nice to me and comfortable. My parents also know this and they also know that this not something serious. It's just nothing at this point.
 
-### Issues:
+### <span style="color:#8bd952">Issues</span>
 
 Ok so what's the issue now? I've had a lot of small issues here and there which would bother me slightly and I couldn't rant it to someone relatable. Also me being a nice person and a people pleaser, I couldn't say out this strange stuff to people who were causing the issues.
 
@@ -32,7 +32,7 @@ One big issue is that people around me abusing the bedsheet not knowing that I s
 
 Other issue is what I faced today, which I usually face every month or so --- Replacement of the bedsheet I've been using for a month. Until like yesterday, this replacement hasn't hurt me much. But today for no reason it hit me like a truck. Usually, when I start of with a new bedsheet, it takes some time for me to adapt to its smell (mostly the fabric softener smell) and change its smell to the one I usually like (I don't wanna elaborate, I myself don't know exactly). In fact, I choose the new bedsheet by smelling (and of course, the one that fits my height). Within a week, I get accustomed to the bedsheet. This happens once every month.
 
-### Present:
+### <span style="color:#8bd952">Present</span>
 
 What's so different today? First of all, sleeping is one of my favorite things to do. Connecting these two, I guess I slowly started developing attachments with the bedsheets I was using. Every time I wake up from sleep, it would be so hard for me to stop smelling the bedsheet I've adapted to. The thought of me smelling the bedsheet would induce the sleepiness in me at anytime. Practically speaking, I was more often excited in smelling the bedsheet and laying down than actually sleeping. It just became a part of me, almost like a partner :) . 
 
@@ -40,7 +40,7 @@ Past few days had been rough for me and I had green-checked bedsheet which I've 
 
 When my mom was scolding me today regarding this, I started murmuring to myself that how I've attached myself emotionally to the bedsheet and its just not easy to throw it away like she says - hoping that she would ask me what I was murmuring and understand this thing. But as expected she didn't care much. I kept on murmuring that no one wants to listen or understand. My skill issue there to be honest, but it is what is.
 
-### Final notes
+### <span style="color:#8bd952">Final notes</span>
 
 Now I'm writing this entry, smelling the new bedsheet (Blue checked one). It smells nice but its very concentrated. Still I would like to smell the old bedsheet I put in laundry this evening (If it's smell is retained). Prolly it got washed and cleaned, and absorbed the smell of the fabric softener. 
 
