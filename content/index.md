@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: Centroid of a random indefinite tree
 date: 2025-06-29
 ---
 Hello to whoever reading this. Sometimes I speak a lot with my close friends and I end up saying surprising things. Then later the same day I would be realizing how much of such potential inside me is wasted by not recording it properly. So I thought it would be a cool idea to take notes from it and put it as a blog.
@@ -15,5 +15,5 @@ If you have access to this blog through some person, probably you are already sp
 | S.no | Name of the Entry | Date       | Tags             |
 | ---- | ----------------- | ---------- | ---------------- |
 | 1.   | [[Attachment]]    | 29.06.2025 | Personal Yapping |
-| 2.   | [[Music Taste]]   |            | Likes            |
+| 2.   | [[Music Taste]]   | 03.07.2025 | Likes            |
 | 3.   |                   |            |                  |
