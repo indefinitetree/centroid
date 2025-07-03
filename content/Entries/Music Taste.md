@@ -1,12 +1,13 @@
 ---
 entry number: "2"
 title: Music Taste
-date: 2025-06-29
+date: 2025-07-03
 tags:
   - music
   - likes
-summary: This blog entry is about the music taste I have.
-status: draft
+  - hypothesis
+summary: This blog entry is about the music tastes people have and an overview of my playist.
+status: done
 ---
 ---
 No intro or nothing for this entry, I'm gonna straight up throw some controversial observations and hypotheses directly. There are two types of people - One, people who listen to some music regularly or periodically and second, psychopaths and depressed serial killers.
@@ -27,7 +28,7 @@ I've boldly put forth such an outrageous and general claim, I agree that there a
 
 ---
 
-### How I choose my playlist
+### <span style="color:red">How I choose my playlist </span>
 
 Coming to my music taste (Ah yes, I've been waiting so long for this!), I'm not going to into much details (like my complete playlist and stuff, I'm saving it for another entry). As I've mentioned above, I have zero clue what I like in a song. Given a song I like, I can point out what I liked the most. Can I put all that together, create a song that would outclass every other song in my playlist forever? No. I can't ideally but maybe I can pretend to be. 
 
