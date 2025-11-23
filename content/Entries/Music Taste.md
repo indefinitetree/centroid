@@ -6,6 +6,7 @@ tags:
   - music
   - likes
   - hypothesis
+  - c
 summary: This blog entry is about the music tastes people have and an overview of my playist.
 status: done
 ---
