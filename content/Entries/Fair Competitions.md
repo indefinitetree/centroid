@@ -88,6 +88,10 @@ Coming to tournaments, there is something called rational behaviour, which I wil
 
 First part of this blog entry, especially the JEE Advanced part - was one of my line of thoughts I had when I asked the question myself. At that time, I was thinking about the relevance of competitions, not really about the fairness of the competitions - Is competition a necessity, from a participants' point of view. Nevertheless, this was also a fun idea to think about it.  14k characters, so I shall stop this here. (Too much yappin)
 
+### <span style="color:#8bd952">Post-Entry Clarity:</span>
+
+So, first of all, some generalizations I have just thrown around which are completely based on my observations instead of backing up with a solid statistics/data. So, yeah some of the things regarding the peak brain activity is not true. Second, even assuming that, increasing age range doesn't really make it fair for that one year period - still unfairness exist because people do get more time to prepare in this case. So, this means it is still not possible to make it fair only through tweaking the age range, but in long run, across different attempts, it looks fair though imo. 
+
 
 
 
