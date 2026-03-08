@@ -9,7 +9,7 @@ summary: About competitions in general
 status: done
 ---
 ---
-_Does fair competitions exist?_  I asked myself while I was sitting through a class that was teaching about how to deal with failures. Before answering this question, we should first define the terms clearly. Moreover, a more fundamental question would be - _Can fair competitions exist (theoretically)?_ . If yes, then how it would look? If no, how could one make a competition as fair as possible? Is something called a _fair competition_ even possible practically or realistically? What about rationale and morale? What about fault tolerance? What about feasibility?
+_Do fair competitions exist?_  I asked myself while I was sitting through a class that was teaching about how to deal with failures. Before answering this question, we should first define the terms clearly. Moreover, a more fundamental question would be - _Can fair competitions exist (theoretically)?_ . If yes, then how it would look? If no, how could one make a competition as fair as possible? Is something called a _fair competition_ even possible practically or realistically? What about rationale and morale? What about fault tolerance? What about feasibility?
 
 Lot of interesting questions, If someone else had all these questions and wanted to discuss, I would do anything, would travel countries to discuss in-person (Delusional). Nowadays, idk I just get excited for these type of conversations. I'm becoming more pathetic for such generalized philosophical conversations. 
 

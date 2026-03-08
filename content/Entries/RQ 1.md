@@ -3,6 +3,7 @@ entry number: "5"
 title: RQ 1
 date: 2025-11-28
 tags:
+  - Problem
 summary: Just a random math problem I made
 status: done
 ---
