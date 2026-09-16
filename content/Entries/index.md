@@ -5,8 +5,6 @@ tags:
   - yapping
 summary: The personal entries.
 ---
-The personal entries. Yapping, likes, philosophy, the occasional math problem.
-
 For the algorithm ones, see [[Algorithms/index|Algorithms]].
 
 ## List of Entries:

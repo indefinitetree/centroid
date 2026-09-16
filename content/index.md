@@ -10,13 +10,6 @@ Apart from personal reasons, whoever reading this blog might get some idea about
 
 If you have access to this blog through some person, probably you are already special to someone, congrats making it here (or sneaking/stalking). One of my friends (Let's call him 2S4) inspired me to start this. Let's not talk about him anyway. Have fun.
 
-## Sections
-
-| Section          | What's in it                                       |
-| ---------------- | -------------------------------------------------- |
-| [[Entries/index\|Entries]]       | The personal entries. Yapping, likes, philosophy, the occasional math problem. |
-| [[Algorithms/index\|Algorithms]] | _Algoposting_. Entries about algorithms, the details and the building up.      |
-
 ## List of Entries:
 
 | S.no | Name of the Entry     | Date       | Tags                                     |

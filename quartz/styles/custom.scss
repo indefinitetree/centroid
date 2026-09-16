@@ -1,3 +1,74 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// ---------------------------------------------------------------------------
+// Custom callouts
+//
+// Quartz only recognises the types listed in `calloutMapping` (ofm.ts).
+// Anything else still renders as a callout box, but falls back to the default
+// blue "note" colour and pencil icon. `[!Answer]` in RQ 1 was already hitting
+// that fallback.
+//
+// These rules land after callouts.scss (custom.scss @use's base.scss, which
+// @use's callouts.scss), so they win the specificity tie against the generic
+// `.callout[data-callout]` rule.
+//
+// Usage. A trailing `-` makes the callout start collapsed:
+//
+//   > [!problem] Byzantine agreement
+//   > **Input.** ...
+//
+//   > [!answer]- Solution
+//   > ...
+// ---------------------------------------------------------------------------
+
+.callout {
+  // The question being posed.
+  &[data-callout="problem"] {
+    --color: #e0813a;
+    --border: #e0813a44;
+    --bg: #e0813a10;
+    --callout-icon: var(--callout-icon-question);
+  }
+
+  // The payoff. Green, to match the section headings in the entries.
+  &[data-callout="answer"],
+  &[data-callout="solution"] {
+    --color: #8bd952;
+    --border: #8bd95244;
+    --bg: #8bd95210;
+    --callout-icon: var(--callout-icon-success);
+  }
+
+  // The idea before the formalism.
+  &[data-callout="intuition"] {
+    --color: #c792ea;
+    --border: #c792ea44;
+    --bg: #c792ea10;
+    --callout-icon: var(--callout-icon-tip);
+  }
+
+  // The thing that stays true every round. Usually the heart of the proof.
+  &[data-callout="invariant"] {
+    --color: #00b0ff;
+    --border: #00b0ff44;
+    --bg: #00b0ff10;
+    --callout-icon: var(--callout-icon-abstract);
+  }
+
+  // Time, space, rounds, messages.
+  &[data-callout="complexity"] {
+    --color: #ffb62c;
+    --border: #ffb62c44;
+    --bg: #ffb62c10;
+    --callout-icon: var(--callout-icon-example);
+  }
+
+  // Proof sketches and lemmas.
+  &[data-callout="proof"],
+  &[data-callout="lemma"] {
+    --color: #7ac0a8;
+    --border: #7ac0a844;
+    --bg: #7ac0a810;
+    --callout-icon: var(--callout-icon-quote);
+  }
+}

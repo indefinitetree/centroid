@@ -12,9 +12,8 @@ const config: QuartzConfig = {
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
+    // No analytics. Nothing third-party is loaded on a page view.
+    analytics: null,
     locale: "en-US",
     baseUrl: "indefinitetree.github.io/centroid",
     // Anything matched here never reaches the built site.

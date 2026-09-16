@@ -7,10 +7,7 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   afterBody: [],
   footer: Component.Footer({
-    links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
-    },
+    links: {},
   }),
 }
 
@@ -41,6 +38,21 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer(),
   ],
   right: [
+    // Home page only: the newest entries, so the latest post is one click away.
+    // Everywhere else this slot is the table of contents.
+    Component.ConditionalRender({
+      component: Component.RecentNotes({
+        title: "Recent Entries",
+        limit: 5,
+        showTags: true,
+        // Skip folder landing pages, they aren't entries.
+        filter: (f) => {
+          const slug = f.slug ?? ""
+          return slug !== "index" && !slug.endsWith("/index")
+        },
+      }),
+      condition: (page) => page.fileData.slug === "index",
+    }),
     Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
