@@ -17,7 +17,20 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "indefinitetree.github.io/centroid",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    // Anything matched here never reaches the built site.
+    // Both the bare name and the `/**` form are listed: the bare name covers the
+    // minimatch check in the dev-server watcher, the `/**` form covers the
+    // globby/fast-glob `ignore` used by the build and the asset emitter.
+    ignorePatterns: [
+      "private",
+      "private/**",
+      "templates",
+      "templates/**",
+      ".obsidian",
+      ".obsidian/**",
+      ".trash",
+      ".trash/**",
+    ],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",

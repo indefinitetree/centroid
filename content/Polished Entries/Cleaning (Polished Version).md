@@ -1,6 +1,7 @@
 ---
 entry number: "6"
 title: Cleaning
+date: 2026-03-08
 start date: 2026-03-08
 end date: 2026-03-08
 tags:

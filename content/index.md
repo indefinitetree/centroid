@@ -4,11 +4,18 @@ date: 2025-06-29
 ---
 Hello to whoever reading this. Sometimes I speak a lot with my close friends and I end up saying surprising things. Then later the same day I would be realizing how much of such potential inside me is wasted by not recording it properly. So I thought it would be a cool idea to take notes from it and put it as a blog.
 
-Jokes apart (Forget whatever I wrote above, it was a complete idiotic joke) , Like every blog, this one also has some goals (which are not gonna be revealed expicitly).
+Jokes apart (Forget whatever I wrote above, it was a completely idiotic joke) , Like every blog, this one also has some goals (which are not gonna be revealed explicitly).
 
-Apart from personal reasons, whoever reading this blog might get some idea about me I guess. Also I thought it would be cool to release this sneakily to some of the people I know later, to see what people think of me.
+Apart from personal reasons, whoever reading this blog might get some idea about me, I guess. Also I thought it would be cool to release this sneakily to some of the people I know later, to see what people think of me.
 
 If you have access to this blog through some person, probably you are already special to someone, congrats making it here (or sneaking/stalking). One of my friends (Let's call him 2S4) inspired me to start this. Let's not talk about him anyway. Have fun.
+
+## Sections
+
+| Section          | What's in it                                       |
+| ---------------- | -------------------------------------------------- |
+| [[Entries/index\|Entries]]       | The personal entries. Yapping, likes, philosophy, the occasional math problem. |
+| [[Algorithms/index\|Algorithms]] | _Algoposting_. Entries about algorithms, the details and the building up.      |
 
 ## List of Entries:
 
@@ -20,4 +27,3 @@ If you have access to this blog through some person, probably you are already sp
 | 4.   | [[Fair Competitions]] | 23.11.2025 | Philosophy , Yapping                     |
 | 5.   | [[RQ 1]]              | 28.11.2025 | Math                                     |
 | 6.   | [[Cleaning]]          | 08.03.2026 | Personal Yapping                         |
-| 7.   |                       |            |                                          |
