@@ -35,9 +35,14 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        // Geometric grotesque with enough character to not read as a default.
+        header: { name: "Space Grotesk", weights: [500, 600, 700] },
+        // Inter is drawn for screens: tall x-height, open apertures, and it
+        // stays legible at the small sizes the sidebar and captions use.
+        body: { name: "Inter", weights: [400, 500, 600], includeItalic: true },
+        // Tall x-height and clearly distinguished 0/O and 1/l/I, which is what
+        // you want in pseudocode blocks.
+        code: { name: "JetBrains Mono", weights: [400, 500, 700] },
       },
       colors: {
         lightMode: {
@@ -83,9 +88,61 @@ const config: QuartzConfig = {
       //Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
-      Plugin.Latex({ renderEngine: "katex" }),
+      Plugin.Latex({
+        renderEngine: "katex",
+        // Shorthands usable in any $...$ or $$...$$ block, site-wide.
+        // Backslashes are escaped twice: once for TS, once for TeX.
+        // Arity is inferred from the highest #n used, so \ket{x} takes one arg.
+        customMacros: {
+          // Quantum
+          "\\Hn": "H^{\\otimes n}",
+          "\\ket": "\\left|#1\\right\\rangle",
+          "\\bra": "\\left\\langle#1\\right|",
+          "\\braket": "\\left\\langle#1\\middle|#2\\right\\rangle",
+          "\\outer": "\\left|#1\\right\\rangle\\!\\left\\langle#2\\right|",
+
+          // Sets and spaces
+          "\\bits": "\\{0,1\\}",
+          "\\bitsn": "\\{0,1\\}^n",
+          "\\R": "\\mathbb{R}",
+          "\\N": "\\mathbb{N}",
+          "\\Z": "\\mathbb{Z}",
+          "\\C": "\\mathbb{C}",
+          "\\F": "\\mathbb{F}",
+
+          // Probability and analysis
+          "\\E": "\\mathbb{E}",
+          "\\Prob": "\\mathbb{P}",
+          "\\Var": "\\mathrm{Var}",
+          "\\inner": "\\langle#1,#2\\rangle",
+
+          // Fourier
+          "\\chr": "\\mathcal{X}_{#1}",
+          "\\fhat": "\\hat{#1}",
+
+          // Complexity
+          "\\poly": "\\mathrm{poly}",
+          "\\negl": "\\mathrm{negl}",
+        },
+      }),
     ],
-    filters: [Plugin.RemoveDrafts()],
+    filters: [
+      // Same as Plugin.RemoveDrafts(), except drafts stay visible during local
+      // preview. Lets you see a `draft: true` entry with `npx quartz build
+      // --serve` without unsetting the flag and risking a sync while it's off.
+      // A real build (what GitHub Actions runs) still drops them.
+      //
+      // Defined here rather than by editing quartz/plugins/filters/draft.ts so
+      // `npx quartz update` doesn't conflict.
+      {
+        name: "RemoveDrafts",
+        shouldPublish(ctx, [, vfile]) {
+          if (ctx.argv.serve) return true
+          const draft = vfile.data?.frontmatter?.draft
+          return !(draft === true || draft === "true")
+        },
+      },
+    ],
     emitters: [
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),

@@ -13,7 +13,7 @@ draft: true
 Where you ran into this algorithm, and why it was worth a rabbit hole.
 
 ---
-### <span style="color:#8bd952">The Problem</span>
+### The Problem
 
 > [!problem] 
 > **Setting.** Who the players are, what they can and can't do.
@@ -25,7 +25,7 @@ Why the obvious approach doesn't work. This is usually the most interesting
 paragraph in the whole entry, so it's worth more than one line.
 
 ---
-### <span style="color:#8bd952">Intuition</span>
+### Intuition
 
 > [!intuition] 
 > The one-sentence version, before any formalism.
@@ -33,7 +33,7 @@ paragraph in the whole entry, so it's worth more than one line.
 Then the longer version. What's the trick? Where does the leverage come from?
 
 ---
-### <span style="color:#8bd952">The Algorithm</span>
+### The Algorithm
 
 ```text
 procedure NAME(input):
@@ -48,7 +48,7 @@ procedure NAME(input):
 A line-by-line walk through anything that isn't obvious from the pseudocode.
 
 ---
-### <span style="color:#8bd952">Why It Works</span>
+### Why It Works
 
 > [!invariant] 
 > The property that holds at the top of every round.
@@ -60,7 +60,7 @@ A line-by-line walk through anything that isn't obvious from the pseudocode.
 > Why it stops. If it's randomised, with what probability and in expectation.
 
 ---
-### <span style="color:#8bd952">Complexity</span>
+### Complexity
 
 > [!complexity] 
 > | Resource | Bound | Where it comes from |
@@ -75,7 +75,7 @@ Any recurrence worth writing out:
 $$T(n) = T\left(\frac{n}{2}\right) + O(n)$$
 
 ---
-### <span style="color:#8bd952">Worked Example</span>
+### Worked Example
 
 A small instance traced by hand. Small enough to follow, big enough to show the
 interesting case rather than the trivial one.
@@ -86,11 +86,11 @@ interesting case rather than the trivial one.
 | 1     |       |      |
 
 ---
-### <span style="color:#8bd952">Summary</span>
+### Summary
 
 What to actually remember. The one idea worth carrying to the next algorithm.
 
 ---
-### <span style="color:#8bd952">References</span>
+### References
 
 - 

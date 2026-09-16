@@ -11,6 +11,7 @@ Are humans rational agents? or byzantine from an ideal perspective, whatever we 
 
 ## List of Entries:
 
-| S.no | Name of the Entry | Date | Tags |
-| ---- | ----------------- | ---- | ---- |
-|      |                   |      |      |
+| S.no | Name of the Entry          | Date       | Tags     |
+| ---- | -------------------------- | ---------- | -------- |
+| 1.   | [[Fourier Representations]] | 16.09.2026 | Quantum  |
+| 2.   |                            |            |          |

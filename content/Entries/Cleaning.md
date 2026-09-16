@@ -18,7 +18,7 @@ My opinion on general people's view on cleaning is that - As a profession, it is
 Jokes apart I don't really know how much I love cleaning others' stuff, but I really like cleaning and ordering my things. Not only physically but in every other places - like devices, notes etc. I would be the most organized person in the world - if only I had the time and the effort to organize things matched the output and return value I get (which is just a shot of happiness usually). I don't really know if this topic deserves a special blog or is there enough content to even write about this. But then I realize that I have free will over my blog - I can write anything I want and this is something I want to write/talk about frequently.
 
 ---
-### <span style="color:#8bd952">State Machines</span>
+### State Machines
 
 _"State Machines?  Are you serious? Why are you like this?"_  You might ask me and that is a very valid question.
 
@@ -44,7 +44,7 @@ How did this implication even arise? I think it's mostly due to instances rather
 I was actually able to make good use of this implication sometimes. Since the contraposition of this statement is equivalent, whenever I was stressed or depressed, I tried to fix it by first fixing my surroundings. I clean, reorder and arrange my things properly. I used to think that this would waste a lot of time (which it did), but then after cleaning, my mental state always got better regardless. Slowly I used this strategy to kinda lighten up myself at times. Even now I use this technique at times and needless to say, it has helped me greatly sometimes. It doesn't fix my stress or depression/sadness by itself, but it gives a push for me to forget about or get distracted and start locking in. ~~Unfortunately, this technique works only when I do it on my own, it is kinda counter productive when my mom notices my environment's pathetic state and asks me to clean it.~~  So yeah, the _State Machine_ was my mind that could be somehow configured (or its output was) based  on how ordered my surroundings was.
 
 ---
-### <span style="color:#8bd952">College Scenario</span>
+### College Scenario
 
 When I first came to college, my room was big enough to grant me a side that was almost as big as my study room and it was just for me, unlike the one I had during school time, where I had to share it with my sister. In my first year, I was rarely depressed/stressed so I didn't really needed a conscious cleaning often - occasionally I cleaned my room only for the sake of cleaning. I rarely folded my clothes or properly aligned bedsheets or my things. 
 
@@ -59,21 +59,24 @@ Usually my thoughts are (or atleast how I process them) mostly like a two-way co
 Today, I'm sitting in my table and writing this blog. I just cleaned my side of the room and started locking in again from my yesterday's depressive episode. My current roommates rarely or with a good guarantee I can say, almost never cleaned their side of the room. I've told them also multiple times, but yeah my words in this context never gets enough respect. I've stopped caring enough about this in general, so yeah all good for now. 
 
 ---
-### <span style="color:#8bd952">Other forms of cleaning</span>
+### Other forms of cleaning
 
-#### <span style="color:#78bff2">Notes</span>
+#### Notes
+
 Organizing and reordering my notes - I did this multiple times during my JEE preparation. I was a big fan of taking notes and writing (literally). I believed that it increased my retention and watching me craft those letters is such a good feel. It took so much of time and effort to make such neat and tidy notes, but I would say it was definitely worth it, especially when the exam was very near. 
 
 Even now I like writing over typing things. I really really like taking notes - especially with the pen I currently have. To the point I bought a big set of the same pens (The pen is LINC Maxo, if anyone is interested) so that I can continue having the joy of taking notes. Although I don't really have the time to organize them, but it is not required and my notes are just good enough I believe. 
 
-#### <span style="color:#78bff2">Devices</span>
+#### Devices
+
 Deleting old files, useless photos, ordering playlists, organizing my study materials, (wish I organized my codes also like this, but apparently I'm very poor at it, or in other words, _skill issue_), organizing photos in my phone and laptop is something I do regularly and occasionally. Every semester, I change my IDE color, I change my phone's wallpaper and phone's theme (same for laptop), to give myself a fresh feel and new start. I usually do this around the corner of vacations during a depressive episode to lighten up my mood. Again these take so much of my time, I do think they are worthless, but regardless I do it for the _'shots of happiness'_ . While doing this organizing, I also get to see the progress over time (especially when clearing useless photos) and get shots of nostalgia as well. I do some of these when I get bored. Even in clash of clans, I have a very organized layout just for farming this silly short lived sense of orderliness. 
 
-#### <span style="color:#78bff2">Mental State</span>
+#### Mental State
+
 This is something that gets cleaned constantly, or in fact every single step of time/thought. Filtering loads of useless and intrusive thoughts has become a habit and routine. For me, at this point, ignoring them is good as filtering them - For now I don't really ponder about such things (I've realized it's useless) , and it's more or less pointless to fix the root cause. Gaslighting is one good strategy that just works pretty well all the time. Fixing ideologies here and then, ordering my thought processes and decision making, considering other perspectives, amount of effort and time per thought/decisions are all something that now happens automatically after the amount of practice and experiments I've done with myself. Not the most perfect, but it is good enough to keep me going. 
 
 --- 
-### <span style="color:#8bd952">Final Thoughts</span>
+### Final Thoughts
 
 Interestingly, this was actually a bigger blog than I thought. At first, I never intended to finish it in a day, but yeah I got some time to structure on what to write, so I guess I was able to finish it in an around two hours or so. I'm thankful to the person who motivated me today to start writing again. To end this, Cleaning as a hobby is very special and close to me. I wish that, at any state of time, I don't become incapable of cleaning my own surroundings. Oh yeah, talking of this, on the other hand, a very bad person in terms of cleaning my internal body - As I said, I still follow the heuristics of _'If it isn't visible, then it isn't dirty_ - which I believe should be changed, before the effects start clumping up and come into action. I talked about cleaning now and I just saw my bed and it looks like this
 

@@ -1,6 +1,96 @@
 @use "./base.scss";
 
 // ---------------------------------------------------------------------------
+// Base size
+//
+// Inter has a tall x-height, so it needs far less of a bump than a serif would.
+// Everything in Quartz is sized in `rem`, so this scales the page
+// proportionally, KaTeX included. A percentage (rather than a hard px) keeps
+// the reader's own browser font-size setting working.
+//
+// Dial between 100% and 110% to taste.
+// ---------------------------------------------------------------------------
+
+html {
+  font-size: 106.25%; // 17px at a default 16px browser setting
+}
+
+// Quartz generates a fallback stack ending in Helvetica/Arial. Inter's own
+// metrics are much closer to the system UI fonts, so falling back to those
+// keeps the layout from shifting while the webfont loads (display=swap) or if
+// Google Fonts is blocked entirely.
+//
+// Quartz's generated theme block is emitted AFTER custom.scss, so ordering
+// alone loses. `html:root` (specificity 0,1,1) beats its `:root` (0,1,0) and
+// wins regardless of position, without resorting to !important.
+html:root {
+  --headerFont:
+    "Space Grotesk", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --bodyFont: "Inter", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}
+
+// Inter and JetBrains Mono are close enough in x-height that code only needs a
+// light pull-back to sit level with the prose.
+code,
+pre {
+  font-size: 0.92em;
+}
+
+// Inter ships proper tabular figures and contextual alternates. Tabular numbers
+// keep complexity tables and the entry tables from jittering column to column.
+html:root {
+  font-feature-settings: "cv05" 1, "ss03" 1; // single-storey l, curved r
+}
+
+table {
+  font-variant-numeric: tabular-nums;
+}
+
+// ---------------------------------------------------------------------------
+// Heading colours
+//
+// These replace the inline `<span style="color:...">` wrappers that used to be
+// typed by hand around every heading. Write plain markdown now:
+//
+//   ### Question       instead of   ### <span style="color:#8bd952">Question</span>
+//   #### Sub-point     instead of   #### <span style="color:#78bff2">Sub-point</span>
+//
+// Change the colour once here and every entry follows. Scoped to `article` so
+// the sidebar (Recent Entries) and folder listings keep their normal heading
+// colour.
+// ---------------------------------------------------------------------------
+
+// Section headings are green at the top three levels, then step through blue.
+// Size already carries the hierarchy, so h1..h3 share a colour: the personal
+// entries use ### as their section heading, the Algorithms ones use # and ##,
+// and both should look the same.
+:root {
+  --heading-section-color: #8bd952; // green   - h1, h2, h3
+  --heading-sub-color: #78bff2; // light blue  - h4
+  --heading-subsub-color: #7788f0; // blue-violet - h5, h6
+}
+
+// Scoped to `article`, which covers only the body of an entry. The page title,
+// Explorer, Graph View and Backlinks headings all sit outside it and keep the
+// normal heading colour.
+article {
+  h1,
+  h2,
+  h3 {
+    color: var(--heading-section-color);
+  }
+
+  h4 {
+    color: var(--heading-sub-color);
+  }
+
+  h5,
+  h6 {
+    color: var(--heading-subsub-color);
+  }
+}
+
+// ---------------------------------------------------------------------------
 // Custom callouts
 //
 // Quartz only recognises the types listed in `calloutMapping` (ofm.ts).

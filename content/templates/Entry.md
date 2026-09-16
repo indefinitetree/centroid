@@ -13,11 +13,11 @@ draft: true
 Intro. What this entry is about, and what made you want to write it down.
 
 ---
-### <span style="color:#8bd952">Section</span>
+### Section
 
 Body.
 
 ---
-### <span style="color:#8bd952">Summary</span>
+### Summary
 
 What you landed on, or why you didn't land anywhere.

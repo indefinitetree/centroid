@@ -20,3 +20,12 @@ If you have access to this blog through some person, probably you are already sp
 | 4.   | [[Fair Competitions]] | 23.11.2025 | Philosophy , Yapping                     |
 | 5.   | [[RQ 1]]              | 28.11.2025 | Math                                     |
 | 6.   | [[Cleaning]]          | 08.03.2026 | Personal Yapping                         |
+
+## List of Algorithm Entries:
+
+_Algoposting_ , contrary to _shitposting_ . All of them live under [[Algorithms/index|Algorithms]].
+
+| S.no | Name of the Entry          | Date       | Tags        |
+| ---- | -------------------------- | ---------- | ----------- |
+| 1.   | [[Fourier Representations]] | 16.09.2026 | Algoposting |
+| 2.   |                            |            |             |

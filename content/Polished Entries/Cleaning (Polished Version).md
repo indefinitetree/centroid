@@ -19,7 +19,7 @@ My take on the general public's view of cleaning is that, as a profession, it’
 Jokes apart, I don't know how much I’d love cleaning *other* people's stuff, but I genuinely love cleaning and organizing my own things. This applies not just physically, but everywhere else — like my devices, notes, etc. I would probably be the most organized person in the world if I only had the time, and if the effort required to organize things matched the return on investment (which is usually just a fleeting shot of happiness). I wasn't sure if this topic deserved a dedicated blog post or if there was even enough content to write about. But then I realized I have free will over my blog—I can write whatever I want, and this is something I frequently want to talk about.
 
 ---
-### <span style="color:#8bd952">State Machines</span>
+### State Machines
 
 *"State Machines? Are you serious? Why are you like this?"* You might ask me, and that is a very valid question. 
 
@@ -45,7 +45,7 @@ How did this implication even arise? I think it’s mostly due to a compounding 
 I was actually able to make good use of this implication at times. Since the contrapositive of a statement is logically equivalent, whenever I felt stressed or depressed, I tried to fix my mindset by first fixing my surroundings. I would clean, reorder, and meticulously arrange my things. I used to worry that this would waste a lot of time (which it admittedly did), but after cleaning, my mental state invariably improved. Slowly, I adopted this strategy to intentionally lighten my mood. I still use this technique today, and needless to say, it has been immensely helpful. It doesn't magically cure my stress or sadness on its own, but it provides the necessary push to distract me, clear my head, and help me start *locking in*. Unfortunately, this technique only works when I initiate it myself; it becomes completely counterproductive when my mom notices the pathetic state of my environment and *tells* me to clean it. So yeah, the "State Machine" was essentially my mind, which could be configured (or have its output altered) based entirely on how ordered my surroundings were.
 
 ---
-### <span style="color:#8bd952">College Scenario</span>
+### College Scenario
 
 When I first arrived at college, my room was large enough to grant me a side almost as big as my old study room back home. Better yet, it was entirely mine—unlike the room I shared with my sister during my school years. Throughout my first year, I was rarely stressed or depressed, so I didn't often feel the need to consciously clean. I occasionally tidied up just for the sake of it, but I rarely bothered folding my clothes or properly aligning my bedsheets and belongings. 
 
@@ -66,25 +66,28 @@ That thought provoked my ego and deeply held ideologies. I quickly forced myself
 Today, I'm sitting at my table writing this blog. I just finished cleaning my side of the room, ready to *lock in* again after a mild depressive episode yesterday. My current roommates rarely clean their side of the room—in fact, I can almost guarantee they never do. I've told them multiple times as well, but clearly, my words in this context carry zero weight. I've completely stopped caring about it, so it's all good for now. 
 
 ---
-### <span style="color:#8bd952">Other forms of cleaning</span>
+### Other forms of cleaning
 
-#### <span style="color:#78bff2">Notes</span>
+#### Notes
+
 Organizing and reordering my notes is something I did constantly during my JEE preparation. I was always a massive fan of handwriting my notes. I firmly believed it increased my retention, plus, watching myself craft neat letters was just a deeply satisfying feeling. It took an incredible amount of time and effort to maintain such meticulous, tidy notes, but I’d say it was absolutely worth it, especially as the exams drew closer. 
 
 Even today, I vastly prefer writing over typing. I genuinely love taking notes—especially with my current go-to pen. I love it so much, in fact, that I bought a massive bulk set of them (the LINC Maxo, for anyone interested) just so I could endlessly experience the joy of writing. Although I don't have the luxury of time to organize my notes perfectly anymore, it isn't strictly necessary; my raw notes are usually good enough on their own. 
 
-#### <span style="color:#78bff2">Devices</span>
+#### Devices
+
 Deleting old files, purging useless photos, ordering playlists, and organizing my study materials are things I do regularly. (I wish I organized my code like this too, but apparently, I'm just terrible at it—major *skill issue*). 
 
 Every semester, without fail, I change my IDE color theme, my phone's wallpaper, and my laptop's aesthetic to give myself a fresh feel and a clean slate. I typically do this right around the start of vacations or during a depressive slump to lift my spirits. While these digital chores consume a lot of time and are arguably entirely unproductive, I still do them purely for those aforementioned "shots of happiness." While organizing, I also get to visibly track my progress over time (especially when sorting old photos), which hits me with great waves of nostalgia. I'll even do this stuff just out of sheer boredom. Honestly, even my *Clash of Clans* base has a hyper-organized layout, just to farm that silly, short-lived sense of orderliness. 
 
-#### <span style="color:#78bff2">Mental State</span>
+#### Mental State
+
 My mental state is something that gets cleaned constantly—practically with every single passing thought. Filtering through loads of useless, intrusive thoughts has become a strict daily routine. At this point, I’ve found that simply ignoring them is just as effective as filtering them. I no longer waste energy pondering over intrusive clutter (I’ve realized it’s entirely useless), and trying to dig down and "fix" the root cause is usually a futile effort. 
 
 Honestly, self-gaslighting is one strategy that just works brilliantly for me most of the time. Tweaking my ideologies here and there, organizing my decision-making trees, weighing alternate perspectives, and strictly budgeting the time and effort I allow per thought have all become automatic processes. It comes naturally now, thanks to the sheer amount of mental experimentation I’ve done on myself. It isn't flawless, but it keeps the machine running. 
 
 ---
-### <span style="color:#8bd952">Final Thoughts</span>
+### Final Thoughts
 
 Interestingly, this turned out to be a much longer blog post than I originally anticipated. I never intended to finish it all in one sitting, but I found the time to structure my ideas and ended up wrapping it all up in about two hours. I'm incredibly thankful to the person who motivated me to start writing again today. 
 

@@ -11,7 +11,7 @@ status: done
 RQ - Random Question. This is the start of multiple upcoming entries consisting of random problems I created myself for fun. Some of them are just straightforward annoying, but I do think that some of the questions have a really cool solution and I want to put those out here. Have fun!
 
 ---
-### <span style="color:#8bd952">Question</span>
+### Question
 
 Let $f:\left[\frac{1}{2}, 1 \right] \rightarrow [0 , 2]$ be a function such that 
 $$f(x) = 4x^3 - 3x + 1$$
@@ -45,7 +45,7 @@ Let $g$ be the inverse function of $f$ . Then the value of $g \left( \frac{1}{\s
 >$$ = \dfrac{2.7}{2.8} = 0.964$$
 
 ---
-### <span style="color:#8bd952">Summary</span>
+### Summary
 
 Shortest entry so far. Nothing much to say. I really liked this trick because it somehow infuses the trigonometric domain with the normal functions and calculus domain. 
 
